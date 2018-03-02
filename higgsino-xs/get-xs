@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+
+set -e
+
+inputfolder=higgsino01
+outputfolder=plots03
+
+pwd="${PWD}"
+
+cd "${inputfolder}"
+
+rm -f *.txt
+
+# Production specific cross section
+for a in {1..8}; do
+    for b in $(eval echo {${a}..8}); do
+        for x in higgsino*; do
+            echo -n "${x}: " >> xs_${a}_${b}_nlo.txt
+            echo -n "${x}: " >> xs_${a}_${b}_lo.txt
+            echo -n "${x}: " >> xs_${a}_${b}_kfac.txt
+            awk 'FNR==1 { print($12) } ' "${x}"/prospino_${a}_${b}.dat >> xs_${a}_${b}_nlo.txt
+            awk 'FNR==1 { print($10) } ' "${x}"/prospino_${a}_${b}.dat >> xs_${a}_${b}_lo.txt
+            awk 'FNR==1 { print($14) } ' "${x}"/prospino_${a}_${b}.dat >> xs_${a}_${b}_kfac.txt
+        done
+    done
+done
+
+# Inclusive cross section
+for x in higgsino*; do
+    echo -n "${x}: " >> xs_incl_nlo.txt
+    echo -n "${x}: " >> xs_incl_lo.txt
+    echo -n "${x}: " >> xs_incl_kfac.txt
+    echo -n "${x}: " >> xs_incl_kfac_avg.txt
+    echo -n "${x}: " >> xs_incl_kfac_unc.txt
+    awk 'FNR==1 { sum+=$12 } END{ print sum }' "${x}"/prospino_*.dat >> xs_incl_nlo.txt
+    awk 'FNR==1 { sum+=$10 } END{ print sum }' "${x}"/prospino_*.dat >> xs_incl_lo.txt
+    awk 'FNR==1 { lo+=$10; nlo+=$12 } END{ print(nlo/lo) }' "${x}"/prospino_*.dat >> xs_incl_kfac.txt
+    awk 'FNR==1 && $14>0 { sum+=$14; n+=1 } END{ print sum/n }' "${x}"/prospino_*.dat >> xs_incl_kfac_avg.txt
+    awk 'FNR==1 && $14>0 { lo+=$10; nlo+=$12; nlos[NR]=$12; ks[NR]=$14; n+=1}
+    END{ k=nlo/lo; for (item in ks){ std+=(nlos[item]/nlo)*((ks[item]-k)^2) }; print(sqrt(std)) }' "${x}"/prospino_*.dat >> xs_incl_kfac_unc.txt
+done
+
+cd "${pwd}"
+mkdir -p "${outputfolder}"
+
+# Plots
+for x in "${inputfolder}"/*txt; do
+    root -l -b -q "th2_xs.cpp(\"${x}\", \"${outputfolder}\")"
+done

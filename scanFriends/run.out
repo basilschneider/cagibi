@@ -1,0 +1,198 @@
+
+Processing scanSOS.cpp...
+NEW EVENT
+Run: 1; Lumi: 47; Event: 67196; genID: -13
+GenParts: 1/7; PID: -13; Status: 23; pT: 5.527251; eta: 2.273568; phi: 1.955598
+GenParts: 2/7; PID: 13; Status: 23; pT: 13.970113; eta: 2.467708; phi: 0.769866
+GenParts: 3/7; PID: 22; Status: 1; pT: 0.000021; eta: 2.250208; phi: 0.660428
+GenParts: 4/7; PID: 11; Status: 1; pT: 0.449717; eta: -2.381448; phi: 2.006609
+GenParts: 5/7; PID: -11; Status: 1; pT: 0.278394; eta: -2.383224; phi: 2.003490
+GenParts: 6/7; PID: 11; Status: 1; pT: 0.252294; eta: 4.025500; phi: 2.569460
+GenParts: 7/7; PID: -11; Status: 1; pT: 0.010028; eta: 4.166130; phi: 2.631394
+GenLep: 1/6: ID: -13; Status: 23; pt: 5.527251; eta: 2.273568; phi: 1.955598
+GenLep: 2/6: ID: 13; Status: 23; pt: 13.970113; eta: 2.467708; phi: 0.769866
+GenLep: 3/6: ID: 11; Status: 1; pt: 0.449717; eta: -2.381448; phi: 2.006609
+GenLep: 4/6: ID: -11; Status: 1; pt: 0.278394; eta: -2.383224; phi: 2.003490
+GenLep: 5/6: ID: 11; Status: 1; pt: 0.252294; eta: 4.025500; phi: 2.569460
+GenLep: 6/6: ID: -11; Status: 1; pt: 0.010028; eta: 4.166130; phi: 2.631394
+RecoJet: 1/2; pt: 72.551659; eta: 0.263022; phi: -1.777193
+RecoJet: 2/2; pt: 40.369156; eta: 1.955269; phi: 0.946100
+RecoLep: 1/2; ID: 13; pt: 14.568428; eta: 2.284714; phi: 0.665567; iso: 2.113687
+RecoLep: 2/2; ID: -13; pt: 5.143945; eta: 2.155713; phi: 1.871734; iso: 1.018602
+MET: pt: 14.246399; eta: 0.000000; phi: 2.269252
+
+NEW EVENT
+Run: 1; Lumi: 47; Event: 67596; genID: -13
+GenParts: 1/7; PID: -13; Status: 23; pT: 13.914149; eta: -2.069880; phi: 1.037519
+GenParts: 2/7; PID: 13; Status: 23; pT: 20.706135; eta: -2.117317; phi: 2.302136
+GenParts: 3/7; PID: 22; Status: 1; pT: 0.368000; eta: -2.240678; phi: 1.480717
+GenParts: 4/7; PID: 11; Status: 1; pT: 0.020033; eta: -1.688772; phi: -2.085192
+GenParts: 5/7; PID: -11; Status: 1; pT: 0.334851; eta: -1.955869; phi: -2.281105
+GenParts: 6/7; PID: 11; Status: 1; pT: 0.010982; eta: 2.208818; phi: 0.285782
+GenParts: 7/7; PID: -11; Status: 1; pT: 0.043403; eta: 2.323234; phi: 0.253525
+GenLep: 1/6: ID: -13; Status: 23; pt: 13.914149; eta: -2.069880; phi: 1.037519
+GenLep: 2/6: ID: 13; Status: 23; pt: 20.706135; eta: -2.117317; phi: 2.302136
+GenLep: 3/6: ID: 11; Status: 1; pt: 0.020033; eta: -1.688772; phi: -2.085192
+GenLep: 4/6: ID: -11; Status: 1; pt: 0.334851; eta: -1.955869; phi: -2.281105
+GenLep: 5/6: ID: 11; Status: 1; pt: 0.010982; eta: 2.208818; phi: 0.285782
+GenLep: 6/6: ID: -11; Status: 1; pt: 0.043403; eta: 2.323234; phi: 0.253525
+RecoJet: 1/1; pt: 32.734856; eta: 0.044357; phi: -1.139553
+RecoLep: 1/2; ID: 13; pt: 27.774906; eta: -1.840101; phi: 2.537057; iso: 0.495870
+RecoLep: 2/2; ID: -13; pt: 12.085402; eta: -2.232532; phi: 1.471615; iso: 0.255745
+MET: pt: 9.214725; eta: 0.000000; phi: -3.026667
+
+NEW EVENT
+Run: 1; Lumi: 47; Event: 67672; genID: -13
+GenParts: 1/10; PID: -13; Status: 23; pT: 19.735157; eta: 0.642992; phi: 0.513680
+GenParts: 2/10; PID: 13; Status: 23; pT: 15.385427; eta: 1.236155; phi: 0.133883
+GenParts: 3/10; PID: 22; Status: 1; pT: 0.592009; eta: 0.483868; phi: -0.086430
+GenParts: 4/10; PID: 22; Status: 1; pT: 1.171655; eta: -4.624192; phi: -2.452101
+GenParts: 5/10; PID: 11; Status: 1; pT: 0.049364; eta: -3.631043; phi: -1.782580
+GenParts: 6/10; PID: -11; Status: 1; pT: 0.151308; eta: -3.618561; phi: -1.791065
+GenParts: 7/10; PID: 11; Status: 1; pT: 0.029934; eta: 0.584803; phi: 2.465526
+GenParts: 8/10; PID: -11; Status: 1; pT: 0.090526; eta: -0.062965; phi: 2.715999
+GenParts: 9/10; PID: 11; Status: 1; pT: 0.109104; eta: -4.515819; phi: -0.210908
+GenParts: 10/10; PID: -11; Status: 1; pT: 0.011873; eta: -4.476556; phi: -0.126769
+GenLep: 1/8: ID: -13; Status: 23; pt: 19.735157; eta: 0.642992; phi: 0.513680
+GenLep: 2/8: ID: 13; Status: 23; pt: 15.385427; eta: 1.236155; phi: 0.133883
+GenLep: 3/8: ID: 11; Status: 1; pt: 0.049364; eta: -3.631043; phi: -1.782580
+GenLep: 4/8: ID: -11; Status: 1; pt: 0.151308; eta: -3.618561; phi: -1.791065
+GenLep: 5/8: ID: 11; Status: 1; pt: 0.029934; eta: 0.584803; phi: 2.465526
+GenLep: 6/8: ID: -11; Status: 1; pt: 0.090526; eta: -0.062965; phi: 2.715999
+GenLep: 7/8: ID: 11; Status: 1; pt: 0.109104; eta: -4.515819; phi: -0.210908
+GenLep: 8/8: ID: -11; Status: 1; pt: 0.011873; eta: -4.476556; phi: -0.126769
+RecoJet: 1/1; pt: 28.214413; eta: 2.152122; phi: -2.898212
+RecoLep: 1/2; ID: -13; pt: 19.013535; eta: 0.682528; phi: 0.468540; iso: 16.420033
+RecoLep: 2/2; ID: 13; pt: 15.190765; eta: 1.231861; phi: 0.036372; iso: 2.844086
+MET: pt: 20.277321; eta: 0.000000; phi: -1.009779
+
+NEW EVENT
+Run: 1; Lumi: 47; Event: 68175; genID: -13
+GenParts: 1/6; PID: -13; Status: 23; pT: 29.951921; eta: -0.918342; phi: 0.291775
+GenParts: 2/6; PID: 13; Status: 23; pT: 28.224272; eta: -0.086693; phi: 0.726427
+GenParts: 3/6; PID: 22; Status: 1; pT: 5.982594; eta: -0.673153; phi: 0.130221
+GenParts: 4/6; PID: 22; Status: 1; pT: 0.000006; eta: -0.228611; phi: 1.071505
+GenParts: 5/6; PID: 22; Status: 1; pT: 0.000000; eta: -0.871663; phi: 0.204706
+GenParts: 6/6; PID: 22; Status: 1; pT: 0.000000; eta: -0.277880; phi: 0.699522
+GenLep: 1/2: ID: -13; Status: 23; pt: 29.951921; eta: -0.918342; phi: 0.291775
+GenLep: 2/2: ID: 13; Status: 23; pt: 28.224272; eta: -0.086693; phi: 0.726427
+RecoJet: 1/1; pt: 68.687645; eta: 0.422512; phi: -2.089427
+RecoLep: 1/2; ID: 13; pt: 25.897348; eta: -0.013103; phi: 0.705811; iso: 0.000000
+RecoLep: 2/2; ID: -13; pt: 23.635727; eta: -0.888017; phi: 0.185732; iso: 5.594434
+MET: pt: 10.724335; eta: 0.000000; phi: 0.518922
+
+NEW EVENT
+Run: 1; Lumi: 72; Event: 103310; genID: -13
+GenParts: 1/3; PID: -13; Status: 23; pT: 6.872568; eta: -2.336109; phi: -2.605353
+GenParts: 2/3; PID: 13; Status: 23; pT: 22.212555; eta: -1.916969; phi: -1.631611
+GenParts: 3/3; PID: 22; Status: 1; pT: 0.077287; eta: -1.822497; phi: -1.657966
+GenLep: 1/2: ID: -13; Status: 23; pt: 6.872568; eta: -2.336109; phi: -2.605353
+GenLep: 2/2: ID: 13; Status: 23; pt: 22.212555; eta: -1.916969; phi: -1.631611
+RecoJet: 1/2; pt: 82.332169; eta: -1.106023; phi: 1.800194
+RecoJet: 2/2; pt: 62.910015; eta: -0.118095; phi: -1.041126
+RecoLep: 1/2; ID: 13; pt: 21.723503; eta: -1.832437; phi: -1.643548; iso: 2.076224
+RecoLep: 2/2; ID: -13; pt: 6.679467; eta: -2.220837; phi: -2.611730; iso: 0.980621
+MET: pt: 41.499073; eta: 0.000000; phi: -0.847853
+
+NEW EVENT
+Run: 1; Lumi: 72; Event: 103536; genID: -13
+GenParts: 1/7; PID: -13; Status: 23; pT: 6.281808; eta: -0.363280; phi: 1.563659
+GenParts: 2/7; PID: 13; Status: 23; pT: 4.656462; eta: -0.550885; phi: -0.420861
+GenParts: 3/7; PID: 22; Status: 1; pT: 0.000003; eta: -0.333578; phi: 0.996816
+GenParts: 4/7; PID: 11; Status: 1; pT: 0.146420; eta: -1.385341; phi: -1.330185
+GenParts: 5/7; PID: -11; Status: 1; pT: 0.033644; eta: -1.554636; phi: -1.295131
+GenParts: 6/7; PID: 11; Status: 1; pT: 0.084965; eta: -6.449358; phi: -2.469077
+GenParts: 7/7; PID: -11; Status: 1; pT: 0.036933; eta: -6.448074; phi: -2.425491
+GenLep: 1/6: ID: -13; Status: 23; pt: 6.281808; eta: -0.363280; phi: 1.563659
+GenLep: 2/6: ID: 13; Status: 23; pt: 4.656462; eta: -0.550885; phi: -0.420861
+GenLep: 3/6: ID: 11; Status: 1; pt: 0.146420; eta: -1.385341; phi: -1.330185
+GenLep: 4/6: ID: -11; Status: 1; pt: 0.033644; eta: -1.554636; phi: -1.295131
+GenLep: 5/6: ID: 11; Status: 1; pt: 0.084965; eta: -6.449358; phi: -2.469077
+GenLep: 6/6: ID: -11; Status: 1; pt: 0.036933; eta: -6.448074; phi: -2.425491
+RecoJet: 1/1; pt: 39.572285; eta: 2.389379; phi: -1.963761
+RecoLep: 1/2; ID: 13; pt: 7.707249; eta: -0.060935; phi: -0.251733; iso: 0.000000
+RecoLep: 2/2; ID: -13; pt: 7.233351; eta: -0.233124; phi: 1.040893; iso: 0.000000
+MET: pt: 28.109684; eta: 0.000000; phi: 2.888713
+
+NEW EVENT
+Run: 1; Lumi: 72; Event: 103569; genID: -13
+GenParts: 1/8; PID: -13; Status: 23; pT: 11.641006; eta: 0.820936; phi: 0.610780
+GenParts: 2/8; PID: 13; Status: 23; pT: 8.741981; eta: 0.171470; phi: 1.366814
+GenParts: 3/8; PID: 22; Status: 1; pT: 0.003757; eta: 0.421218; phi: 0.707310
+GenParts: 4/8; PID: 22; Status: 1; pT: 0.000026; eta: 0.235834; phi: 1.327322
+GenParts: 5/8; PID: 11; Status: 1; pT: 0.114433; eta: -0.127637; phi: -1.577139
+GenParts: 6/8; PID: -11; Status: 1; pT: 0.034377; eta: -0.209239; phi: -1.462431
+GenParts: 7/8; PID: 11; Status: 1; pT: 0.094619; eta: 0.194225; phi: -1.133152
+GenParts: 8/8; PID: -11; Status: 1; pT: 0.013254; eta: 0.320603; phi: -1.164554
+GenLep: 1/6: ID: -13; Status: 23; pt: 11.641006; eta: 0.820936; phi: 0.610780
+GenLep: 2/6: ID: 13; Status: 23; pt: 8.741981; eta: 0.171470; phi: 1.366814
+GenLep: 3/6: ID: 11; Status: 1; pt: 0.114433; eta: -0.127637; phi: -1.577139
+GenLep: 4/6: ID: -11; Status: 1; pt: 0.034377; eta: -0.209239; phi: -1.462431
+GenLep: 5/6: ID: 11; Status: 1; pt: 0.094619; eta: 0.194225; phi: -1.133152
+GenLep: 6/6: ID: -11; Status: 1; pt: 0.013254; eta: 0.320603; phi: -1.164554
+RecoJet: 1/2; pt: 26.868267; eta: -2.325854; phi: -2.396178
+RecoJet: 2/2; pt: 25.103407; eta: 1.388329; phi: 0.270522
+RecoLep: 1/2; ID: -13; pt: 12.940531; eta: 0.754297; phi: 0.510624; iso: 0.994295
+RecoLep: 2/2; ID: 13; pt: 8.815432; eta: 0.204388; phi: 1.278371; iso: 0.435883
+MET: pt: 27.792559; eta: 0.000000; phi: -2.634655
+
+NEW EVENT
+Run: 1; Lumi: 72; Event: 103740; genID: -13
+GenParts: 1/8; PID: -13; Status: 23; pT: 16.675346; eta: -1.859797; phi: -0.781198
+GenParts: 2/8; PID: 13; Status: 23; pT: 7.159180; eta: -2.348546; phi: -0.964533
+GenParts: 3/8; PID: 22; Status: 1; pT: 0.007423; eta: -1.872943; phi: -0.761272
+GenParts: 4/8; PID: 22; Status: 1; pT: 0.000440; eta: -1.929649; phi: -0.817843
+GenParts: 5/8; PID: 11; Status: 1; pT: 0.001510; eta: -1.048605; phi: -0.527479
+GenParts: 6/8; PID: -11; Status: 1; pT: 0.379920; eta: -0.887641; phi: 0.019427
+GenParts: 7/8; PID: 11; Status: 1; pT: 0.141644; eta: 4.334759; phi: 0.585396
+GenParts: 8/8; PID: -11; Status: 1; pT: 0.778474; eta: 4.355869; phi: 0.602907
+GenLep: 1/6: ID: -13; Status: 23; pt: 16.675346; eta: -1.859797; phi: -0.781198
+GenLep: 2/6: ID: 13; Status: 23; pt: 7.159180; eta: -2.348546; phi: -0.964533
+GenLep: 3/6: ID: 11; Status: 1; pt: 0.001510; eta: -1.048605; phi: -0.527479
+GenLep: 4/6: ID: -11; Status: 1; pt: 0.379920; eta: -0.887641; phi: 0.019427
+GenLep: 5/6: ID: 11; Status: 1; pt: 0.141644; eta: 4.334759; phi: 0.585396
+GenLep: 6/6: ID: -11; Status: 1; pt: 0.778474; eta: 4.355869; phi: 0.602907
+RecoJet: 1/2; pt: 58.007057; eta: -1.039430; phi: 1.971591
+RecoJet: 2/2; pt: 45.994495; eta: -1.599473; phi: -1.193089
+RecoLep: 1/2; ID: -13; pt: 17.264761; eta: -1.864459; phi: -0.724002; iso: 3.516371
+RecoLep: 2/2; ID: 13; pt: 7.605829; eta: -2.341324; phi: -0.874759; iso: 0.000000
+MET: pt: 33.049873; eta: 0.000000; phi: 2.697448
+
+NEW EVENT
+Run: 1; Lumi: 72; Event: 103791; genID: -13
+GenParts: 1/4; PID: -13; Status: 23; pT: 5.208638; eta: -1.737094; phi: -2.387515
+GenParts: 2/4; PID: 13; Status: 23; pT: 10.828916; eta: -1.919281; phi: 3.103992
+GenParts: 3/4; PID: 22; Status: 1; pT: 0.000096; eta: -1.749691; phi: -2.321565
+GenParts: 4/4; PID: 22; Status: 1; pT: 0.000000; eta: -1.826917; phi: -3.070792
+GenLep: 1/2: ID: -13; Status: 23; pt: 5.208638; eta: -1.737094; phi: -2.387515
+GenLep: 2/2: ID: 13; Status: 23; pt: 10.828916; eta: -1.919281; phi: 3.103992
+RecoJet: 1/3; pt: 66.644058; eta: -2.385336; phi: -2.252357
+RecoJet: 2/3; pt: 60.743240; eta: -2.245229; phi: 0.421762
+RecoJet: 3/3; pt: 26.734785; eta: -0.415429; phi: 1.851307
+RecoLep: 1/2; ID: 13; pt: 11.364290; eta: -1.938900; phi: 3.102460; iso: 0.447386
+RecoLep: 2/2; ID: -13; pt: 5.359923; eta: -1.730609; phi: -2.423067; iso: 0.000000
+MET: pt: 32.182312; eta: 0.000000; phi: 1.203108
+
+NEW EVENT
+Run: 1; Lumi: 72; Event: 104030; genID: -13
+GenParts: 1/6; PID: -13; Status: 23; pT: 8.010341; eta: 0.032654; phi: 2.142434
+GenParts: 2/6; PID: 13; Status: 23; pT: 21.267307; eta: -0.721485; phi: -2.453072
+GenParts: 3/6; PID: 11; Status: 1; pT: 0.153255; eta: -0.465141; phi: 1.267050
+GenParts: 4/6; PID: -11; Status: 1; pT: 0.006736; eta: -0.369046; phi: 1.264183
+GenParts: 5/6; PID: 11; Status: 1; pT: 0.946592; eta: -0.947391; phi: -1.434062
+GenParts: 6/6; PID: -11; Status: 1; pT: 0.033360; eta: -0.934574; phi: -1.421497
+GenLep: 1/6: ID: -13; Status: 23; pt: 8.010341; eta: 0.032654; phi: 2.142434
+GenLep: 2/6: ID: 13; Status: 23; pt: 21.267307; eta: -0.721485; phi: -2.453072
+GenLep: 3/6: ID: 11; Status: 1; pt: 0.153255; eta: -0.465141; phi: 1.267050
+GenLep: 4/6: ID: -11; Status: 1; pt: 0.006736; eta: -0.369046; phi: 1.264183
+GenLep: 5/6: ID: 11; Status: 1; pt: 0.946592; eta: -0.947391; phi: -1.434062
+GenLep: 6/6: ID: -11; Status: 1; pt: 0.033360; eta: -0.934574; phi: -1.421497
+RecoJet: 1/4; pt: 60.146118; eta: -0.787247; phi: -1.193625
+RecoJet: 2/4; pt: 38.428715; eta: 0.125724; phi: 0.920974
+RecoJet: 3/4; pt: 27.952658; eta: -0.476513; phi: 1.886510
+RecoJet: 4/4; pt: 25.239141; eta: -0.346383; phi: -2.967650
+RecoLep: 1/2; ID: 13; pt: 21.724264; eta: -0.750794; phi: -2.449021; iso: 1.010342
+RecoLep: 2/2; ID: -13; pt: 7.809042; eta: 0.065672; phi: 2.224023; iso: 2.271519
+MET: pt: 15.294633; eta: 0.000000; phi: -0.654611
+
+Counter: 10

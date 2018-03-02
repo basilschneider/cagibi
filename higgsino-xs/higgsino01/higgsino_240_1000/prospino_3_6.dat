@@ -1,0 +1,3 @@
+nn  3  6     0.0    0.0    1.0  994.5 2119.1  0.000 0.184E-08 0.791E-03 0.177E-08 0.104E-02 0.9635 0.184E-08 0.177E-08
+
+    i1 i2  dummy0 dummy1 scafac  m1    m2      angle LO[pb]   rel_error NLO[pb]   rel_error   K    LO_ms[pb] NLO_ms[pb]  

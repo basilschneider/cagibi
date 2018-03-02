@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+
+# Combine cross sections from two raw tables (e.g. n2x1+ and n2x1-)
+
+awk 'FNR==NR {
+    # First file
+    xs_nll[$1] = $10
+    scl_dn[$1] = $11
+    pdf_dn[$1] = $12
+    scl_up[$1] = $13
+    pdf_up[$1] = $14
+}
+FNR!=NR {
+    # Second file
+    # If a cross section is in file 2, but not in file 1, throw an error
+    # If a cross section is in file 1, but not in file 2, ignore it
+    if (!($1 in xs_nll)){
+        print("Did not find mass",$1)
+        exit err
+    }
+    #printf "| %4s | %7.2f | %6.2f | %6.2f | %5.2f | %5.2f |\n",
+    printf "| %s | %.2f | %.2f | %.2f | %.2f | %.2f |\n",
+        $1,
+        $10+xs_nll[$1],
+        ($10*$11+xs_nll[$1]*scl_dn[$1])/($10+xs_nll[$1]),
+        ($10*$12+xs_nll[$1]*pdf_dn[$1])/($10+xs_nll[$1]),
+        ($10*$13+xs_nll[$1]*scl_up[$1])/($10+xs_nll[$1]),
+        ($10*$14+xs_nll[$1]*pdf_up[$1])/($10+xs_nll[$1])
+}' "${1}" "${2}"

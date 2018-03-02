@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+
+# Transfer samples from eos to local filesystem, hadd them and transfer output
+# file back to eos
+
+set -e -o pipefail
+
+if [ -z "${1}" ]; then
+    echo Input directory not set. Abort.
+    exit
+fi
+
+inputdir="${1%/}"
+outputdir="${inputdir}_merged"
+
+server=root://cmseos.fnal.gov/
+
+# Create output directory
+# If this already exists, the script will stop here
+xrdfs "${server}" mkdir "${outputdir}"
+
+# Get list of samples
+samples=$(xrdfs "${server}" ls "${inputdir}")
+
+# Loop over unique set of samples
+for sample in $(awk -F'/' '{sub("[0-9]*.root", "", $NF); print($NF)}' <<< "${samples}" | sort | uniq); do
+
+    echo "${sample}"
+
+    # Transfer files
+    mkdir inputfiles
+    for inputsample in $(grep "${sample}" <<< "${samples}"); do
+        xrdcp "${server}${inputsample}" inputfiles/
+    done
+
+    # hadd
+    hadd "${sample%_}".root inputfiles/*
+
+    # Transfer to eos
+    xrdcp "${sample%_}".root "${server}${outputdir}"
+
+    # Delete the local copies
+    rm "${sample%_}".root
+    rm -rf inputfiles
+
+done

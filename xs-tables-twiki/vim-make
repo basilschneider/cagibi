@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+./combine_tables\
+    rawtables/n2x1{+,-}_mstw2008nlo90cl_14tev_hino.dat.out \
+    > n2x1_mstw2008nlo90cl_14tev_hino.dat.out

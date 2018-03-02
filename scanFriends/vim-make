@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+#root -l -b -q plot.cpp
+root -l -b -q scanSOS.cpp 2>&1 | tee run.out

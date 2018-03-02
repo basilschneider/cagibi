@@ -1,0 +1,2204 @@
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/B-4p-0-1-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 1
+Total number of events: 3862102
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/B-4p-0-1-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/B-4p-0-1-v1510_14TEV_200PU/B-4p-0-1-v1510_14TEV_200PU_CMS_PhaseII_1__________€πê+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/B-4p-0-1-v1510_14TEV_200PU/B-4p-0-1-v1510_14TEV_200PU_CMS_PhaseII_2__________7k„*1.root has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/B-4p-0-1-v1510_14TEV_200PU/B-4p-0-1-v1510_14TEV_200PU_CMS_PhaseII_1__________€πê+1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/B-4p-0-1-v1510_14TEV_200PU/B-4p-0-1-v1510_14TEV_200PU_CMS_PhaseII_1__________€πê+1.root failed to read the file type data.
+Open file 1 from 5
+Open file 2 from 5
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BB-4p-0-300-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 3
+Open file 2 from 3
+Open file 3 from 3
+Total number of events: 18694015
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BB-4p-0-300-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 14
+Open file 2 from 14
+Open file 3 from 14
+Open file 4 from 14
+Open file 5 from 14
+Open file 6 from 14
+Open file 7 from 14
+Open file 8 from 14
+Open file 9 from 14
+Open file 10 from 14
+Open file 11 from 14
+Open file 12 from 14
+Open file 13 from 14
+Open file 14 from 14
+Total number of events: 18694015
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BB-4p-1300-2100-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 11336172
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BB-4p-1300-2100-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 11
+Open file 2 from 11
+Open file 3 from 11
+Open file 4 from 11
+Open file 5 from 11
+Open file 6 from 11
+Open file 7 from 11
+Open file 8 from 11
+Open file 9 from 11
+Open file 10 from 11
+Open file 11 from 11
+Total number of events: 11336172
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BB-4p-2100-100000-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 9846939
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BB-4p-2100-100000-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 9
+Open file 2 from 9
+Open file 3 from 9
+Open file 4 from 9
+Open file 5 from 9
+Open file 6 from 9
+Open file 7 from 9
+Open file 8 from 9
+Open file 9 from 9
+Total number of events: 9846939
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BB-4p-300-700-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 3
+Open file 2 from 3
+Open file 3 from 3
+Total number of events: 12950849
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BB-4p-300-700-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 13
+Open file 2 from 13
+Open file 3 from 13
+Open file 4 from 13
+Open file 5 from 13
+Open file 6 from 13
+Open file 7 from 13
+Open file 8 from 13
+Open file 9 from 13
+Open file 10 from 13
+Open file 11 from 13
+Open file 12 from 13
+Open file 13 from 13
+Total number of events: 12950849
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BB-4p-700-1300-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 11246581
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BB-4p-700-1300-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 11
+Open file 2 from 11
+Open file 3 from 11
+Open file 4 from 11
+Open file 5 from 11
+Open file 6 from 11
+Open file 7 from 11
+Open file 8 from 11
+Open file 9 from 11
+Open file 10 from 11
+Open file 11 from 11
+Total number of events: 11246581
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-0-600-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 13427545
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-0-600-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-0-600-v1510_14TEV_200PU/BBB-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_1__________l⁄+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-0-600-v1510_14TEV_200PU/BBB-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_2__________4ßW+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-0-600-v1510_14TEV_200PU/BBB-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_3__________ÀèÙ*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-0-600-v1510_14TEV_200PU/BBB-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_4__________Ûß+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-0-600-v1510_14TEV_200PU/BBB-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_6__________zÊ*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-0-600-v1510_14TEV_200PU/BBB-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_7__________0o`+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-0-600-v1510_14TEV_200PU/BBB-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_9__________-M√*1.root has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-0-600-v1510_14TEV_200PU/BBB-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_1__________l⁄+1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-0-600-v1510_14TEV_200PU/BBB-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_1__________l⁄+1.root failed to read the file type data.
+Open file 1 from 17
+Open file 2 from 17
+Open file 3 from 17
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-1300-100000-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 16050239
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-1300-100000-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-1300-100000-v1510_14TEV_200PU/BBB-4p-1300-100000-v1510_14TEV_200PU_CMS_PhaseII_10__________g:Ù*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-1300-100000-v1510_14TEV_200PU/BBB-4p-1300-100000-v1510_14TEV_200PU_CMS_PhaseII_2__________ÿÙÔ*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-1300-100000-v1510_14TEV_200PU/BBB-4p-1300-100000-v1510_14TEV_200PU_CMS_PhaseII_3__________d	+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-1300-100000-v1510_14TEV_200PU/BBB-4p-1300-100000-v1510_14TEV_200PU_CMS_PhaseII_4__________éï¬*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-1300-100000-v1510_14TEV_200PU/BBB-4p-1300-100000-v1510_14TEV_200PU_CMS_PhaseII_6__________ñ*M+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-1300-100000-v1510_14TEV_200PU/BBB-4p-1300-100000-v1510_14TEV_200PU_CMS_PhaseII_8__________ ¶Ë*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-1300-100000-v1510_14TEV_200PU/BBB-4p-1300-100000-v1510_14TEV_200PU_CMS_PhaseII_9__________ has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-1300-100000-v1510_14TEV_200PU/BBB-4p-1300-100000-v1510_14TEV_200PU_CMS_PhaseII_10__________g:Ù*1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-1300-100000-v1510_14TEV_200PU/BBB-4p-1300-100000-v1510_14TEV_200PU_CMS_PhaseII_10__________g:Ù*1.root failed to read the file type data.
+Open file 1 from 18
+Open file 2 from 18
+Open file 3 from 18
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 14793534
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_200PU/BBB-4p-600-1300-v1510_14TEV_200PU_CMS_PhaseII_10__________Jjn+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_200PU/BBB-4p-600-1300-v1510_14TEV_200PU_CMS_PhaseII_1__________bQÀ*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_200PU/BBB-4p-600-1300-v1510_14TEV_200PU_CMS_PhaseII_2__________æ™+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_200PU/BBB-4p-600-1300-v1510_14TEV_200PU_CMS_PhaseII_3__________ó˙*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_200PU/BBB-4p-600-1300-v1510_14TEV_200PU_CMS_PhaseII_4__________‡)9+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_200PU/BBB-4p-600-1300-v1510_14TEV_200PU_CMS_PhaseII_5__________∫Œ*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_200PU/BBB-4p-600-1300-v1510_14TEV_200PU_CMS_PhaseII_6__________	¶Ö+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_200PU/BBB-4p-600-1300-v1510_14TEV_200PU_CMS_PhaseII_7__________ has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_200PU/BBB-4p-600-1300-v1510_14TEV_200PU_CMS_PhaseII_8__________Ãá€*1.root has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_200PU/BBB-4p-600-1300-v1510_14TEV_200PU_CMS_PhaseII_10__________Jjn+1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/BBB-4p-600-1300-v1510_14TEV_200PU/BBB-4p-600-1300-v1510_14TEV_200PU_CMS_PhaseII_10__________Jjn+1.root failed to read the file type data.
+Open file 1 from 20
+Open file 2 from 20
+Open file 3 from 20
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-0-300-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 2812183
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-0-300-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 6
+Open file 2 from 6
+Open file 3 from 6
+Open file 4 from 6
+Open file 5 from 6
+Open file 6 from 6
+Total number of events: 2812183
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-1100-1800-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 5656013
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-1100-1800-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 7
+Open file 2 from 7
+Open file 3 from 7
+Open file 4 from 7
+Open file 5 from 7
+Open file 6 from 7
+Open file 7 from 7
+Total number of events: 5656013
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-1800-2700-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 5536713
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-1800-2700-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 7
+Open file 2 from 7
+Open file 3 from 7
+Open file 4 from 7
+Open file 5 from 7
+Open file 6 from 7
+Open file 7 from 7
+Total number of events: 5536713
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-2700-3700-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 4579441
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-2700-3700-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 6
+Open file 2 from 6
+Open file 3 from 6
+Open file 4 from 6
+Open file 5 from 6
+Open file 6 from 6
+Total number of events: 4579441
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-300-600-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 4
+Open file 2 from 4
+Open file 3 from 4
+Open file 4 from 4
+Total number of events: 12850796
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-300-600-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 13
+Open file 2 from 13
+Open file 3 from 13
+Open file 4 from 13
+Open file 5 from 13
+Open file 6 from 13
+Open file 7 from 13
+Open file 8 from 13
+Open file 9 from 13
+Open file 10 from 13
+Open file 11 from 13
+Open file 12 from 13
+Open file 13 from 13
+Total number of events: 12850796
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-3700-100000-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 4844495
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-3700-100000-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 6
+Open file 2 from 6
+Open file 3 from 6
+Open file 4 from 6
+Open file 5 from 6
+Open file 6 from 6
+Total number of events: 4844495
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-600-1100-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 4632249
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bj-4p-600-1100-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 5
+Open file 2 from 5
+Open file 3 from 5
+Open file 4 from 5
+Open file 5 from 5
+Total number of events: 4642217
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bjj-vbf-4p-0-700-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 5754001
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bjj-vbf-4p-0-700-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 6
+Open file 2 from 6
+Open file 3 from 6
+Open file 4 from 6
+Open file 5 from 6
+Open file 6 from 6
+Total number of events: 5754001
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bjj-vbf-4p-1400-2300-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 6041331
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bjj-vbf-4p-1400-2300-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 6
+Open file 2 from 6
+Open file 3 from 6
+Open file 4 from 6
+Open file 5 from 6
+Open file 6 from 6
+Total number of events: 6041331
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bjj-vbf-4p-2300-3400-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 5622269
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bjj-vbf-4p-2300-3400-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 6
+Open file 2 from 6
+Open file 3 from 6
+Open file 4 from 6
+Open file 5 from 6
+Open file 6 from 6
+Total number of events: 5622269
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bjj-vbf-4p-700-1400-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 7006677
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/Bjj-vbf-4p-700-1400-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 6
+Open file 2 from 6
+Open file 3 from 6
+Open file 4 from 6
+Open file 5 from 6
+Open file 6 from 6
+Total number of events: 7006677
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/H-4p-0-300-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 6532624
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/H-4p-0-300-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 6
+Open file 2 from 6
+Open file 3 from 6
+Open file 4 from 6
+Open file 5 from 6
+Open file 6 from 6
+Total number of events: 6532624
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/H-4p-1500-100000-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 2811858
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/H-4p-1500-100000-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 5
+Open file 2 from 5
+Open file 3 from 5
+Open file 4 from 5
+Open file 5 from 5
+Total number of events: 2811858
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/H-4p-300-800-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 3788502
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/H-4p-300-800-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 5
+Open file 2 from 5
+Open file 3 from 5
+Open file 4 from 5
+Open file 5 from 5
+Total number of events: 3788502
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/H-4p-800-1500-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 3064107
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/H-4p-800-1500-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 5
+Open file 2 from 5
+Open file 3 from 5
+Open file 4 from 5
+Open file 5 from 5
+Total number of events: 3064107
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-0-100-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 1
+Total number of events: 7258028
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-0-100-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-0-100-v1510_14TEV_200PU/LL-4p-0-100-v1510_14TEV_200PU_CMS_PhaseII_1__________Qù+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-0-100-v1510_14TEV_200PU/LL-4p-0-100-v1510_14TEV_200PU_CMS_PhaseII_2__________ ñT+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-0-100-v1510_14TEV_200PU/LL-4p-0-100-v1510_14TEV_200PU_CMS_PhaseII_4__________D+1.root has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-0-100-v1510_14TEV_200PU/LL-4p-0-100-v1510_14TEV_200PU_CMS_PhaseII_1__________Qù+1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-0-100-v1510_14TEV_200PU/LL-4p-0-100-v1510_14TEV_200PU_CMS_PhaseII_1__________Qù+1.root failed to read the file type data.
+Open file 1 from 7
+Open file 2 from 7
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-100-200-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 9196901
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-100-200-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 8
+Open file 2 from 8
+Open file 3 from 8
+Open file 4 from 8
+Open file 5 from 8
+Open file 6 from 8
+Open file 7 from 8
+Open file 8 from 8
+Total number of events: 9196901
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-1400-100000-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 7020242
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-1400-100000-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 6
+Open file 2 from 6
+Open file 3 from 6
+Open file 4 from 6
+Open file 5 from 6
+Open file 6 from 6
+Total number of events: 7020242
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-200-500-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 6636641
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-200-500-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 7
+Open file 2 from 7
+Open file 3 from 7
+Open file 4 from 7
+Open file 5 from 7
+Open file 6 from 7
+Open file 7 from 7
+Total number of events: 6636641
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-500-900-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 6424629
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-500-900-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 6
+Open file 2 from 6
+Open file 3 from 6
+Open file 4 from 6
+Open file 5 from 6
+Open file 6 from 6
+Total number of events: 6424629
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-900-1400-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 7075031
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LL-4p-900-1400-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 6
+Open file 2 from 6
+Open file 3 from 6
+Open file 4 from 6
+Open file 5 from 6
+Open file 6 from 6
+Total number of events: 7075031
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-0-400-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 1
+Total number of events: 7697855
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-0-400-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-0-400-v1510_14TEV_200PU/LLB-4p-0-400-v1510_14TEV_200PU_CMS_PhaseII_1__________Æ¿m+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-0-400-v1510_14TEV_200PU/LLB-4p-0-400-v1510_14TEV_200PU_CMS_PhaseII_4__________YrP+1.root has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-0-400-v1510_14TEV_200PU/LLB-4p-0-400-v1510_14TEV_200PU_CMS_PhaseII_1__________Æ¿m+1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-0-400-v1510_14TEV_200PU/LLB-4p-0-400-v1510_14TEV_200PU_CMS_PhaseII_1__________Æ¿m+1.root failed to read the file type data.
+Open file 1 from 8
+Open file 2 from 8
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-400-900-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 1
+Total number of events: 6473145
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-400-900-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-400-900-v1510_14TEV_200PU/LLB-4p-400-900-v1510_14TEV_200PU_CMS_PhaseII_4__________n§+1.root has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-400-900-v1510_14TEV_200PU/LLB-4p-400-900-v1510_14TEV_200PU_CMS_PhaseII_4__________n§+1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-400-900-v1510_14TEV_200PU/LLB-4p-400-900-v1510_14TEV_200PU_CMS_PhaseII_4__________n§+1.root failed to read the file type data.
+Open file 1 from 6
+Open file 2 from 6
+Open file 3 from 6
+Open file 4 from 6
+Open file 5 from 6
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-900-100000-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 3
+Open file 2 from 3
+Open file 3 from 3
+Total number of events: 15964732
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-900-100000-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-900-100000-v1510_14TEV_200PU/LLB-4p-900-100000-v1510_14TEV_200PU_CMS_PhaseII_1__________.ò+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-900-100000-v1510_14TEV_200PU/LLB-4p-900-100000-v1510_14TEV_200PU_CMS_PhaseII_2__________«∆q+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-900-100000-v1510_14TEV_200PU/LLB-4p-900-100000-v1510_14TEV_200PU_CMS_PhaseII_3__________Ú>K+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-900-100000-v1510_14TEV_200PU/LLB-4p-900-100000-v1510_14TEV_200PU_CMS_PhaseII_5__________ÑØà+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-900-100000-v1510_14TEV_200PU/LLB-4p-900-100000-v1510_14TEV_200PU_CMS_PhaseII_8__________ÁìÇ+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-900-100000-v1510_14TEV_200PU/LLB-4p-900-100000-v1510_14TEV_200PU_CMS_PhaseII_9__________´j˘*1.root has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-900-100000-v1510_14TEV_200PU/LLB-4p-900-100000-v1510_14TEV_200PU_CMS_PhaseII_1__________.ò+1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/LLB-4p-900-100000-v1510_14TEV_200PU/LLB-4p-900-100000-v1510_14TEV_200PU_CMS_PhaseII_1__________.ò+1.root failed to read the file type data.
+Open file 1 from 18
+Open file 2 from 18
+Open file 3 from 18
+Open file 4 from 18
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tB-4p-0-500-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 8217158
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tB-4p-0-500-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 8
+Open file 2 from 8
+Open file 3 from 8
+Open file 4 from 8
+Open file 5 from 8
+Open file 6 from 8
+Open file 7 from 8
+Open file 8 from 8
+Total number of events: 8217158
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tB-4p-1500-2200-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 6221516
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tB-4p-1500-2200-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 7
+Open file 2 from 7
+Open file 3 from 7
+Open file 4 from 7
+Open file 5 from 7
+Open file 6 from 7
+Open file 7 from 7
+Total number of events: 6221516
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tB-4p-2200-100000-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 6383268
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tB-4p-2200-100000-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 7
+Open file 2 from 7
+Open file 3 from 7
+Open file 4 from 7
+Open file 5 from 7
+Open file 6 from 7
+Open file 7 from 7
+Total number of events: 6383268
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tB-4p-500-900-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 6078502
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tB-4p-500-900-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 7
+Open file 2 from 7
+Open file 3 from 7
+Open file 4 from 7
+Open file 5 from 7
+Open file 6 from 7
+Open file 7 from 7
+Total number of events: 6078502
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tB-4p-900-1500-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 6100082
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tB-4p-900-1500-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 7
+Open file 2 from 7
+Open file 3 from 7
+Open file 4 from 7
+Open file 5 from 7
+Open file 6 from 7
+Open file 7 from 7
+Total number of events: 6100082
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tj-4p-0-500-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 3
+Open file 2 from 3
+Open file 3 from 3
+Total number of events: 6434482
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tj-4p-0-500-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 9
+Open file 2 from 9
+Open file 3 from 9
+Open file 4 from 9
+Open file 5 from 9
+Open file 6 from 9
+Open file 7 from 9
+Open file 8 from 9
+Open file 9 from 9
+Total number of events: 6434482
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tj-4p-1000-1600-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 1
+Total number of events: 3771345
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tj-4p-1000-1600-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 4
+Open file 2 from 4
+Open file 3 from 4
+Open file 4 from 4
+Total number of events: 3771345
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tj-4p-1600-2400-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 4104847
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tj-4p-1600-2400-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 5
+Open file 2 from 5
+Open file 3 from 5
+Open file 4 from 5
+Open file 5 from 5
+Total number of events: 4104847
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tj-4p-2400-100000-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 4169635
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tj-4p-2400-100000-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 5
+Open file 2 from 5
+Open file 3 from 5
+Open file 4 from 5
+Open file 5 from 5
+Total number of events: 4169635
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tj-4p-500-1000-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 1
+Total number of events: 4083791
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tj-4p-500-1000-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 4
+Open file 2 from 4
+Open file 3 from 4
+Open file 4 from 4
+Total number of events: 4083791
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-0-600-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 1
+Total number of events: 6606111
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-0-600-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-0-600-v1510_14TEV_200PU/tt-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_3__________WK+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-0-600-v1510_14TEV_200PU/tt-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_4__________≥L+1.root has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-0-600-v1510_14TEV_200PU/tt-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_3__________WK+1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-0-600-v1510_14TEV_200PU/tt-4p-0-600-v1510_14TEV_200PU_CMS_PhaseII_3__________WK+1.root failed to read the file type data.
+Open file 1 from 7
+Open file 2 from 7
+Open file 3 from 7
+Open file 4 from 7
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-1100-1700-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 1
+Total number of events: 4210295
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-1100-1700-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 5
+Open file 2 from 5
+Open file 3 from 5
+Open file 4 from 5
+Open file 5 from 5
+Total number of events: 4210295
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-1700-2500-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 1
+Total number of events: 4075339
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-1700-2500-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 5
+Open file 2 from 5
+Open file 3 from 5
+Open file 4 from 5
+Open file 5 from 5
+Total number of events: 4075339
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-2500-100000-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 1
+Total number of events: 4289479
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-2500-100000-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 5
+Open file 2 from 5
+Open file 3 from 5
+Open file 4 from 5
+Open file 5 from 5
+Total number of events: 4289479
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-600-1100-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 1
+Total number of events: 4291563
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/tt-4p-600-1100-v1510_14TEV_200PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 5
+Open file 2 from 5
+Open file 3 from 5
+Open file 4 from 5
+Open file 5 from 5
+Total number of events: 4291563
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-0-900-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 9064127
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-0-900-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-0-900-v1510_14TEV_200PU/ttB-4p-0-900-v1510_14TEV_200PU_CMS_PhaseII_1__________µÌé+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-0-900-v1510_14TEV_200PU/ttB-4p-0-900-v1510_14TEV_200PU_CMS_PhaseII_4__________ôk°+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-0-900-v1510_14TEV_200PU/ttB-4p-0-900-v1510_14TEV_200PU_CMS_PhaseII_5___________—*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-0-900-v1510_14TEV_200PU/ttB-4p-0-900-v1510_14TEV_200PU_CMS_PhaseII_6__________4]ó+1.root has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-0-900-v1510_14TEV_200PU/ttB-4p-0-900-v1510_14TEV_200PU_CMS_PhaseII_1__________µÌé+1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-0-900-v1510_14TEV_200PU/ttB-4p-0-900-v1510_14TEV_200PU_CMS_PhaseII_1__________µÌé+1.root failed to read the file type data.
+Open file 1 from 11
+Open file 2 from 11
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-1600-2500-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 8963510
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-1600-2500-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-1600-2500-v1510_14TEV_200PU/ttB-4p-1600-2500-v1510_14TEV_200PU_CMS_PhaseII_1__________p®‘*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-1600-2500-v1510_14TEV_200PU/ttB-4p-1600-2500-v1510_14TEV_200PU_CMS_PhaseII_4__________eû,+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-1600-2500-v1510_14TEV_200PU/ttB-4p-1600-2500-v1510_14TEV_200PU_CMS_PhaseII_5__________L+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-1600-2500-v1510_14TEV_200PU/ttB-4p-1600-2500-v1510_14TEV_200PU_CMS_PhaseII_6__________T˘ì+1.root has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-1600-2500-v1510_14TEV_200PU/ttB-4p-1600-2500-v1510_14TEV_200PU_CMS_PhaseII_1__________p®‘*1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-1600-2500-v1510_14TEV_200PU/ttB-4p-1600-2500-v1510_14TEV_200PU_CMS_PhaseII_1__________p®‘*1.root failed to read the file type data.
+Open file 1 from 11
+Open file 2 from 11
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 5
+Open file 2 from 5
+Open file 3 from 5
+Open file 4 from 5
+Open file 5 from 5
+Total number of events: 23866875
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_11__________éÒ‘*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_13__________ has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_14__________ZMÎ*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_15__________7+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_16__________µ2T+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_2__________1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_3__________ˇÛo+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_4__________∑™d+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_5__________Ù™Ì*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_6__________ÖŒ*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_7__________gU+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_8__________H5+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_9__________"Ø++1.root has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_11__________éÒ‘*1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-2500-100000-v1510_14TEV_200PU/ttB-4p-2500-100000-v1510_14TEV_200PU_CMS_PhaseII_11__________éÒ‘*1.root failed to read the file type data.
+Open file 1 from 30
+Open file 2 from 30
+Open file 3 from 30
+Open file 4 from 30
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-900-1600-v1510_14TEV_0PU
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+Open file 1 from 2
+Open file 2 from 2
+Total number of events: 8223575
+/eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-900-1600-v1510_14TEV_200PU
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-900-1600-v1510_14TEV_200PU/ttB-4p-900-1600-v1510_14TEV_200PU_CMS_PhaseII_1__________˙Ω±*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-900-1600-v1510_14TEV_200PU/ttB-4p-900-1600-v1510_14TEV_200PU_CMS_PhaseII_2__________ß˚*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-900-1600-v1510_14TEV_200PU/ttB-4p-900-1600-v1510_14TEV_200PU_CMS_PhaseII_3__________fŸ*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-900-1600-v1510_14TEV_200PU/ttB-4p-900-1600-v1510_14TEV_200PU_CMS_PhaseII_4__________UDû+1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-900-1600-v1510_14TEV_200PU/ttB-4p-900-1600-v1510_14TEV_200PU_CMS_PhaseII_5__________ÒÚŸ*1.root has size 0, skipping
+Warning in <TApplication::GetOptions>: file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-900-1600-v1510_14TEV_200PU/ttB-4p-900-1600-v1510_14TEV_200PU_CMS_PhaseII_6__________Sπ≈*1.root has size 0, skipping
+TClass::Init:0: RuntimeWarning: no dictionary for class HepMCEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Event is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFEvent is available
+TClass::Init:0: RuntimeWarning: no dictionary for class LHEFWeight is available
+TClass::Init:0: RuntimeWarning: no dictionary for class GenParticle is available
+TClass::Init:0: RuntimeWarning: no dictionary for class SortableObject is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Vertex is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Jet is available
+TClass::Init:0: RuntimeWarning: no dictionary for class MissingET is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Photon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Electron is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Muon is available
+TClass::Init:0: RuntimeWarning: no dictionary for class Rho is available
+TClass::Init:0: RuntimeWarning: no dictionary for class ScalarHT is available
+SysError in <TFile::ReadBuffer>: error reading from file /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-900-1600-v1510_14TEV_200PU/ttB-4p-900-1600-v1510_14TEV_200PU_CMS_PhaseII_1__________˙Ω±*1.root (No such file or directory)
+Error in <TFile::Init>: /eos/uscms/store/user/snowmass/noreplica/DelphesFromLHE_342pre05hadd_2017Aug/ttB-4p-900-1600-v1510_14TEV_200PU/ttB-4p-900-1600-v1510_14TEV_200PU_CMS_PhaseII_1__________˙Ω±*1.root failed to read the file type data.
+Open file 1 from 13
+Open file 2 from 13
+Traceback (most recent call last):
+  File "./getNEvents.py", line 12, in <module>
+    total += f.Get(treename).GetEntries()
+AttributeError: 'TObject' object has no attribute 'GetEntries'
