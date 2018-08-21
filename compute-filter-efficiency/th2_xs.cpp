@@ -84,6 +84,6 @@ void th2_xs(){
 
     TCanvas* c = new TCanvas();
     c->SetRightMargin(.14);
-        h->Draw("COLZ|text");
+    h->Draw("COLZ|text");
     c->SaveAs("filter-eff.pdf");
 }
