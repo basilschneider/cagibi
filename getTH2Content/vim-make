@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-root -l -b -q 'getTH2Content.cpp("/uscmst1b_scratch/lpc1/3DayLifetime/bschneid/production241_merged/TChiWZ_Delphes_v11.root", "susy_masses")'
+root -l -b -q 'getTH2Content.cpp("/eos/uscms/store/user/bschneid/analysis/upgrade/production260_merged/MSSM-higgsino_13TeV.root", "pMSSM_masses")' | tee nEvt_dummy.txt
