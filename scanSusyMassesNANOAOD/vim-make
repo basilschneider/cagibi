@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+#./scanSusyMassesNANOAOD.py /uscmst1b_scratch/lpc1/3DayLifetime/bschneid/nanoaod/TChiWZ_2016/0DC2D2B7-9FBE-D844-9277-87DAF81F3601.root
+#root -l -b -q scanSusyMassesNANOAOD.cpp /uscmst1b_scratch/lpc1/3DayLifetime/bschneid/nanoaod/TChiWZ_2016/0DC2D2B7-9FBE-D844-9277-87DAF81F3601.root
+
+#./scanSusyMassesNANOAOD.py /uscmst1b_scratch/lpc1/3DayLifetime/bschneid/nanoaod/TChiWZ_2016/*.root
+#root -l -b -q scanSusyMassesNANOAOD.cpp /uscmst1b_scratch/lpc1/3DayLifetime/bschneid/nanoaod/TChiWZ_2016/*.root
+
+./scanSusyMassesNANOAOD.py \
+    /uscmst1b_scratch/lpc1/3DayLifetime/bschneid/nanoaod/TChiWZ_2016/*.root && \
+    mv scanSusyMassesNANOAOD.pdf scan2016.pdf && \
+    mv scanSusyMassesNANOAOD.root scan2016.root
+./scanSusyMassesNANOAOD.py \
+    /uscmst1b_scratch/lpc1/3DayLifetime/bschneid/nanoaod/TChiWZ_2017/*.root && \
+    mv scanSusyMassesNANOAOD.pdf scan2017.pdf && \
+    mv scanSusyMassesNANOAOD.root scan2017.root
+./scanSusyMassesNANOAOD.py \
+    /uscmst1b_scratch/lpc1/3DayLifetime/bschneid/nanoaod/TChiWZ_2018/*.root && \
+    mv scanSusyMassesNANOAOD.pdf scan2018.pdf && \
+    mv scanSusyMassesNANOAOD.root scan2018.root
