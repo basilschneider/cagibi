@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-root -l -b -q 'getTH2Content.cpp("/eos/uscms/store/user/bschneid/analysis/upgrade/production260_merged/MSSM-higgsino_13TeV.root", "pMSSM_masses")' | tee nEvt_dummy.txt
+#root -l -b -q 'getTH2Content.cpp("/eos/uscms/store/user/bschneid/analysis/upgrade/production260_merged/MSSM-higgsino_13TeV.root", "pMSSM_masses")' | tee nEvt_dummy.txt
+root -l -b -q 'getTH2Content.cpp("/eos/uscms/store/user/bschneid/analysis/upgrade/production262_merged/TChipmWW_Delphes_13TeV.root", "susy_massesC1N1")' | tee nEvt_dummy.txt
